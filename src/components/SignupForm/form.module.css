@@ -1,0 +1,56 @@
+.containerMain {
+  width: 300px;
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 30px;
+}
+.container {
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  margin: 5px 0;
+}
+.btn {
+  width: 30.5%;
+  margin: 15px 0;
+  padding: 7px;
+  cursor: pointer;
+}
+
+.err {
+  font-size: 13px;
+  color: red;
+}
+
+.inputRadio {
+  margin-left: 10px;
+}
+.inptsty {
+  margin: 10px 5px;
+}
+.textLable {
+  font-size: small;
+  margin: 5px 0 5px 2px;
+  font-weight: 600;
+}
+.inputstyle {
+  padding: 6px;
+  outline: none;
+  border: 1.5px solid rgb(212, 212, 212);
+  border-radius: 4px;
+}
+.inputstyle:focus {
+  outline: none;
+  border: 1.5px solid rgb(129, 160, 216);
+}
+
+.selectstyle {
+  width: 300px;
+  padding: 6px;
+  outline: none;
+  border: 1.5px solid rgb(212, 212, 212);
+  border-radius: 4px;
+  margin: 5px 0;
+}

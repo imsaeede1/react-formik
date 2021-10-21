@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "name": "saeedeh maghsoudi",
+      "email": "imsaeede@gmail.com",
+      "phoneNumber": "123456999",
+      "password": "137650Gh",
+      "passwordConfirmation": "137650Gh",
+      "gender": "1",
+      "nationality": "IR",
+      "intrest": [
+        "Vue.js"
+      ],
+      "id": 1
+    }
+  ]
+}
